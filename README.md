@@ -23,7 +23,7 @@ Software Development is the career path I want to start because technology is ch
 
 👩🏽💻 Mentor and believer in the potential of women to work in technology areas.
 
-💡⚙️ Creating community through [Mododificildevs] (https://linktr.ee/derlys)
+💡⚙️ Creating community through [Mododificildevs](https://linktr.ee/derlys)
 
 **Talking about Personal Stuffs:**
 
