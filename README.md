@@ -3,6 +3,7 @@
 <a href="https://twitter.com/derlys_paola">
   <img align="center" alt="Derlys | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/derlys-paola-dominguez-motta-9462946b/">
   <img align="left" alt="Derlys| LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
