@@ -27,7 +27,7 @@ Software Development is the career path I want to start because technology is ch
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I am a front end developer with Angular with no experience, I am looking for my first opportunity in a technology company.
+- 👨🏽‍💻 I am a front end developer with Angular, I am looking for my first opportunity in a technology company.
 - 👩🏽‍🏫 I’m currently learning Angular, JavaScript and html, css;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@derlys_paola](https://twitter.com/derlys_paola);
