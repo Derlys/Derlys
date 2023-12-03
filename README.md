@@ -5,7 +5,7 @@
   <img align="center" alt="Derlys | Twitter" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/derlys-paola-dominguez-motta-9462946b/">
+<a href="https://www.linkedin.com/in/derlysdominguez">
   <img align="left" alt="Derlys| LinkdeIn" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
 </a>
 
