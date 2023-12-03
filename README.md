@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://dev.to/derlys">
-  <img align="left" alt="Derlys | Instagram" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png" />
+  <img align="right" alt="Derlys | Instagram" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png" />
 </a>
 
 ![](file:///Users/derlys/Documents/marca%20personal/redes%20sociales/youtube/plantilla%20baner%201.svg)
