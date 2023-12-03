@@ -2,15 +2,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/derlys_paola">
-  <img align="center" alt="Derlys | Twitter" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png" />
+  <img align="right" alt="Derlys | Twitter" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/derlysdominguez">
-  <img align="left" alt="Derlys| LinkdeIn" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
+  <img align="center" alt="Derlys| LinkdeIn" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
 </a>
 
 <a href="https://dev.to/derlys">
-  <img align="center" alt="Derlys | Instagram" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png" />
+  <img align="left" alt="Derlys | Instagram" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png" />
 </a>
 
 ![](file:///Users/derlys/Documents/marca%20personal/redes%20sociales/youtube/plantilla%20baner%201.svg)
@@ -23,6 +23,7 @@ I have solid knowledge in HTML, CSS, JavaScript and TypeScript, and I have worke
 
 My ability to learn quickly and my willingness to expand my front-end development skills set me apart.
 
+<br/>
 
 **Talking about Personal Stuffs:**
 
@@ -37,6 +38,8 @@ My ability to learn quickly and my willingness to expand my front-end developmen
 👥 Communities are and will be for me the beginning of my immersion in the technological world and I see them as a great opportunity, tool and support platform. 💪🏽
 
 If you ever want to share your story with me over [here,](https://twitter.com/derlys_paola) I'll be.
+
+<br/>
 
 **Languages and Tools:**
 
