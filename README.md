@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/derlys-paola-dominguez-motta-9462946b/">
-  <img align="left" alt="Derlys linkdeIn" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
+  <img align="center" alt="Derlys linkdeIn" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
 </a>
 
 <a href="https://dev.to/derlys">
