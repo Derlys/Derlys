@@ -1,37 +1,42 @@
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/derlys_paola">
-  <img align="center" alt="Derlys twitter" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png" />
+  <img align="center" alt="Derlys | Twitter" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/derlys-paola-dominguez-motta-9462946b/">
-  <img align="center" alt="Derlys linkdeIn" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
+  <img align="left" alt="Derlys| LinkdeIn" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
 </a>
 
 <a href="https://dev.to/derlys">
-  <img align="center" alt="Derlys instagram" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png" />
+  <img align="center" alt="Derlys | Instagram" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png" />
 </a>
 
 ![](file:///Users/derlys/Documents/marca%20personal/redes%20sociales/youtube/plantilla%20baner%201.svg)
 
 <br />
 
-Hi, I'm [Derlys Dominguez](https://mododificil.pages.dev/mi-historia), I'm a front end developer with Angular without experience, I'm looking for my first opportunity in a technology company.
+Hi, I'm Derlys Dominguez, I'm a front end developer with Angular, I'm looking for my first opportunity in a technology company.
 
-I have developed personal projects where I implement languages like HTML, CSS, JavaScript, TypeScript and the Angular framework.
+I have solid knowledge in HTML, CSS, JavaScript and TypeScript, and I have worked on academic and personal projects focused on the development of reusable components and the effective management of routes and communication between them.
 
-Software Development is the career path I want to start because technology is changing all the time, I feel that the skills, qualities, and values I possess are a good match for your growing team.
+My ability to learn quickly and my willingness to expand my front-end development skills set me apart.
 
-👩🏽💻 Mentor and believer in the potential of women to work in technology areas.
-
-💡⚙️ Creating community through [Mododificildevs](https://linktr.ee/derlys)
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I am a front end developer with Angular, I am looking for my first opportunity in a technology company.
-- 👩🏽‍🏫 I’m currently learning Angular, JavaScript and html, css;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@derlys_paola](https://twitter.com/derlys_paola);
+🇨🇴 to 🇮🇨 Colombian migrant 
+
+👩 💻 In search of my dream of having my first job as a front end developer.
+
+🌍 Passionate about social work and initiatives that can make positive changes in the mentality of people and the world in general.
+
+💪🏽 Adventurer, Nomad, and explorer of every extreme sport I come across 😁😂😂.
+
+👥 Communities are and will be for me the beginning of my immersion in the technological world and I see them as a great opportunity, tool and support platform. 💪🏽
+
+If you ever want to share your story with me over [here,](https://twitter.com/derlys_paola) I'll be.
 
 **Languages and Tools:**
 
