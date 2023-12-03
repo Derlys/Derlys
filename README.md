@@ -1,15 +1,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/derlys_paola">
-  <img align="center" alt="Derlys | Twitter" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png" />
+  <img align="center" alt="Derlys twitter" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx--v1.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/derlys-paola-dominguez-motta-9462946b/">
-  <img align="left" alt="Derlys| LinkdeIn" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
+  <img align="left" alt="Derlys linkdeIn" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" />
 </a>
 
 <a href="https://dev.to/derlys">
-  <img align="center" alt="Derlys | Instagram" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png" />
+  <img align="center" alt="Derlys instagram" width="50px" src="https://img.icons8.com/ios-filled/50/FFFFFF/blog.png" />
 </a>
 
 ![](file:///Users/derlys/Documents/marca%20personal/redes%20sociales/youtube/plantilla%20baner%201.svg)
