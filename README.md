@@ -37,7 +37,7 @@ My ability to learn quickly and my willingness to expand my front-end developmen
 
 👥 Communities are and will be for me the beginning of my immersion in the technological world and I see them as a great opportunity, tool and support platform. 💪🏽
 
-If you ever want to share your story with me over [here,](https://twitter.com/derlys_paola) I'll be.
+If you ever want to share your story with me over I'll be [here,](https://twitter.com/derlys_paola).
 
 <br/>
 
