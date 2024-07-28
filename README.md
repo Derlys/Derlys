@@ -17,12 +17,16 @@
 
 <br />
 
-Hi, I'm Derlys Dominguez, I'm a front end developer with Angular, I'm looking for my first opportunity in a technology company.
-
-I have solid knowledge in HTML, CSS, JavaScript and TypeScript, and I have worked on academic and personal projects focused on the development of reusable components and the effective management of routes and communication between them.
+Front end developer, I am looking for my next opportunity in a technology company.
+I have a strong background in HTML, CSS, JavaScript and TypeScript, and have worked on academic and personal projects focused on developing reusable components and effectively managing paths and communication between them.
 
 My ability to learn quickly and my willingness to expand my front-end development skills set me apart.
 
+I am familiar with using version control tools such as Git and project management platforms such as GitHub. 
+
+My goal is to advance my career and become a highly competent front-end development professional.
+
+󰘉💻 Mentor and believer in the potential of women to work in technology areas.
 <br/>
 
 **Talking about Personal Stuffs:**
