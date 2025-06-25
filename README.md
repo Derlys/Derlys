@@ -17,7 +17,7 @@
 
 <br />
 
-Objective: To offer my experience as a front-end developer with 3 years of experience in projects.
+Objective: To offer my experience as a full stack developer with 3 years of experience in projects.
 
 These projects that have helped me develop skills in creating reusable components and path management, handling HTML, CSS, JavaScript and TypeScript, and framework like Angular and React, I have the ability to solve problems and I enjoy working in a team.
 
