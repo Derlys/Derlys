@@ -17,23 +17,22 @@
 
 <br />
 
-Front end developer, I am looking for my next opportunity in a technology company.
-I have a strong background in HTML, CSS, JavaScript and TypeScript, and have worked on academic and personal projects focused on developing reusable components and effectively managing paths and communication between them.
+Objective: To offer my experience as a front-end developer with 3 years of experience in projects.
 
-My ability to learn quickly and my willingness to expand my front-end development skills set me apart.
+These projects that have helped me develop skills in creating reusable components and path management, handling HTML, CSS, JavaScript and TypeScript, and framework like Angular and React, I have the ability to solve problems and I enjoy working in a team.
 
-I am familiar with using version control tools such as Git and project management platforms such as GitHub. 
 
-My goal is to advance my career and become a highly competent front-end development professional.
+I'm familiar with Git and GitHub, and I'm always looking for new ways to improve my skills, ready to keep growing in this path and contribute to great projects!
+
 
 󰘉💻 Mentor and believer in the potential of women to work in technology areas.
 <br/>
 
 **Talking about Personal Stuffs:**
 
-🇨🇴 to 🇮🇨 Colombian migrant 
+Digital nomad
 
-👩 💻 In search of my dream of having my first job as a front end developer.
+👩 💻 CTO in a startup.
 
 🌍 Passionate about social work and initiatives that can make positive changes in the mentality of people and the world in general.
 
