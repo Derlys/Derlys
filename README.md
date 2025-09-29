@@ -18,23 +18,9 @@
 
 <br />
 
-Objective: To offer my experience as a full stack developer with 3 years of experience in projects.
+Full Stack Developer specialized in React, Next.js, Supabase, Prisma, and TypeScript. I’ve gained experience through freelance projects, personal practice, and as CTO of a startup, where I coordinated development and product delivery.
 
-These projects that have helped me develop skills in creating reusable components and path management, handling HTML, CSS, JavaScript and TypeScript, and framework like Angular and React, I have the ability to solve problems and I enjoy working in a team.
-
-
-I'm familiar with Git and GitHub, and I'm always looking for new ways to improve my skills, ready to keep growing in this path and contribute to great projects!
-
-
-󰘉💻 Mentor and believer in the potential of women to work in technology areas.
-<br/>
-
-**Talking about Personal Stuffs:**
-
-Digital nomad
-
-👩 💻 CTO in a startup.
-
+I’m currently seeking my first full-time permanent role, eager to apply my skills, adapt quickly to team workflows, and grow into a solid mid-level developer.
 🌍 Passionate about social work and initiatives that can make positive changes in the mentality of people and the world in general.
 
 💪🏽 Adventurer, Nomad, and explorer of every extreme sport I come across 😁😂😂.
@@ -48,8 +34,6 @@ If you ever want to share your story with me over I'll be [here,](https://twitte
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
